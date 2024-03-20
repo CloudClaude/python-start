@@ -1,1 +1,1 @@
-# python-start
+# Ян Владимир Леонидович python-start курс
